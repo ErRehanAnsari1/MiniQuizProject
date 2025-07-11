@@ -17,7 +17,7 @@ A simple and interactive console-based Java application that allows users to tak
 
 ## Technologies Used
 
-- Java (JDK 8+)
+- Java (JDK 21)
 - JDBC (MySQL Connector)
 - MySQL Database
 - Maven (for dependency and project management)
@@ -28,7 +28,7 @@ A simple and interactive console-based Java application that allows users to tak
 
 To run this project locally, make sure you have:
 
-- JDK 8 or later installed
+- JDK 21 or later installed
 - MySQL installed and running
 - Maven installed (recommended but optional if using Eclipse)
 - MySQL Connector/J 5.1.42 dependency added (already present in the project)
